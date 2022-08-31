@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -xampls -apm , sort -d
+la -mpa | sort -d
